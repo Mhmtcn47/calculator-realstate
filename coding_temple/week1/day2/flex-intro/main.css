@@ -1,0 +1,16 @@
+.container{
+height: 800px;
+display: flex;
+flex-direction: row;
+justify-content:space-between;
+align-items: stretch;
+padding: 30px;
+gap: 15px;
+}
+.card{
+    max-width: 200px;
+    border: 2px solid hotpink;
+    padding: 20px;
+    height: 200px;
+    
+}
